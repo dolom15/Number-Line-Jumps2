@@ -1,1 +1,1 @@
-# Number-Line-Jumps2
+# Number-Line-Jumps2 This code determines whether two kangaroos starting at different positions and jumping at different speeds will land on the same spot at the same time by solving for a positive integer number of jumps. It returns "YES" if they meet and "NO" if they never do.
